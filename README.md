@@ -4,7 +4,8 @@ This is a solution to the [Faq accordion card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-[![NFT-screenshot.jpg](https://i.postimg.cc/sgfqnqCr/NFT-screenshot.jpg)](https://postimg.cc/GHNXtMp7)
+[url=https://postimg.cc/7bxmXWm1][img]https://i.postimg.cc/7bxmXWm1/desktop.jpg[/img][/url]
+[url=https://postimg.cc/rzQgHNPB][img]https://i.postimg.cc/rzQgHNPB/mobile.jpg[/img][/url]
 
 ### Links
 
