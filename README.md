@@ -4,8 +4,9 @@ This is a solution to the [Faq accordion card challenge on Frontend Mentor](http
 
 ### Screenshot
 
-[![desktop.jpg](https://postimg.cc/7bxmXWm1)](https://postimg.cc/7bxmXWm1)
-[![mobile.jpg](https://postimg.cc/rzQgHNPB)](https://postimg.cc/rzQgHNPB)
+[![desktop.jpg](https://i.postimg.cc/7bxmXWm1/desktop.jpg)](https://postimg.cc/7bxmXWm1)
+[![mobile.jpg](https://i.postimg.cc/rzQgHNPB/mobile.jpg)](https://postimg.cc/rzQgHNPB)
+
 
 ### Links
 
